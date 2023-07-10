@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936601900566",
+    "project_id": "signin-396ad",
+    "storage_bucket": "signin-396ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936601900566:android:9e27ee9ef22ec180f04737",
+        "android_client_info": {
+          "package_name": "com.example.frebase_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936601900566-s2r1qfa5frvr08sm4ec6kipij6q363lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUf8xeSVLAYm3JymxQirifPzDOqNEE3Do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936601900566-s2r1qfa5frvr08sm4ec6kipij6q363lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
